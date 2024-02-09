@@ -1,5 +1,6 @@
 # :computer: Projeto TrueLearn 
-Projeto consiste em microsserviços para um e-commerce que vende cursos online. O objetivo a longo prazo é em torná-lo um portal de aprendizagem online.
+Projeto consiste em microsserviços para um e-commerce que vende cursos online. O objetivo a longo prazo é em torná-lo um portal de aprendizagem online.  
+**Status: Em Progresso !!**
 
 ## :paperclips: Sobre
 Este Microsserviço é apenas para funções voltadas para o usuário.
